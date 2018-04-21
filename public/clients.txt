@@ -1,0 +1,2 @@
+Client: g, phone number: 1, date and time: 1212, barber: Walter White
+Client: r, phone number: 2, date and time: 3434, barber: Jessie Pinkman
